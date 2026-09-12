@@ -1,0 +1,26 @@
+# 编译产物
+*.exe
+*.o
+*.obj
+*.out
+*.class
+*.jar
+
+# 构建目录
+build/
+target/
+cmake-build-*/
+
+# 日志和临时文件
+*.log
+*.tmp
+*.swp
+
+# 系统文件
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# IDE 个人配置（保留共享的 tasks/launch 配置）
+.vscode/settings.json
+.vscode/*.code-workspace

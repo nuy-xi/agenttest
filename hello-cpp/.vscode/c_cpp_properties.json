@@ -1,0 +1,23 @@
+{
+    "version": 4,
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "D:/cstudy/mingw64/include/**",
+                "D:/cstudy/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/**",
+                "D:/cstudy/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "D:/cstudy/mingw64/bin/g++.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-gcc-x64"
+        }
+    ]
+}
